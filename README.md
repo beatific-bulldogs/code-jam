@@ -62,6 +62,9 @@ Includes offline mode and online mode (you can host your own game). The game is 
    $ poe main
    ```
 
+## Video Showcase
+[![Demo](https://img.youtube.com/vi/sq5bLM37dRI/hqdefault.jpg)](https://www.youtube.com/watch?v=sq5bLM37dRI)
+
 ## Development
  - Install pre-commit hooks
 
